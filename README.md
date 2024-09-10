@@ -5,10 +5,11 @@ Projeto de API RestFull Bancária
 ## Tecnologias utilizadas
 
 * Express.js
+* Supabase
 
 ## Integrações
 
-* BUSABASE (Construção)
+* SUPABASE (Construção) - Login user
 
 ## Imagem Docker
 
